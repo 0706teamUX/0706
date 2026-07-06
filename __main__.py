@@ -1,4 +1,4 @@
-from __init__ import *
+from . import *
 
 print(f'add(5, 3) = {add(5, 3)}')
 print(f'minus(5, 3) = {minus(5, 3)}')
